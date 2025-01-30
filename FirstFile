@@ -1,6 +1,0 @@
-#include <iostream>
-using namespace std;
-
-int main(){
-cout << "Hello! This is the first file for CPE106L Repository.";
-}
